@@ -34,7 +34,11 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript. It i
 4. Push any changes to your GitHub repository to deploy the updated website.
 
 ---
+## 😊 Demo
 
+You can view a live demo of the website at [https://yourusername.github.io/yourportfolio](https://ranjansingh5.github.io/my-portfolio/)
+
+--- 
 ## 🪢 Credits
 
 - GSAP for animations: [GreenSock Animation Platform](https://greensock.com/)
